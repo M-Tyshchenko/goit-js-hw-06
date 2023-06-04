@@ -26,5 +26,4 @@ button {
 .gallery > li {
   display: flex;
   flex-direction: column;
-  padding: 40px 20px;
 }
